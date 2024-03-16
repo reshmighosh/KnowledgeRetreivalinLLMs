@@ -1,0 +1,43 @@
+{"prompt": "Xamarin, from the Microsoft. Xamarin, from the", "correct": "Microsoft", "prediction": "Microsoft", "prob": 0.8618851900100708, "known_id": 13}
+{"prompt": "Alfred Hitchcock Presents debuted on NBC. Alfred Hitchcock Presents debuted on", "correct": "NBC", "prediction": "NBC", "prob": 0.4698411226272583, "known_id": 17}
+{"prompt": "Felix Salmon, who works as a journalist. Felix Salmon, who works as a", "correct": "journalist", "prediction": "journalist", "prob": 0.9445881843566895, "known_id": 46}
+{"prompt": "Pandora Hearts was created in the country of Japan. Pandora Hearts was created in the country of", "correct": "Japan", "prediction": "Japan", "prob": 0.9766778349876404, "known_id": 63}
+{"prompt": "Antonio Vivaldi is known for performing in the opera. Antonio Vivaldi is known for performing in the", "correct": "opera", "prediction": "opera", "prob": 0.9811252355575562, "known_id": 155}
+{"prompt": "De-Phazz plays a lot of jazz. De-Phazz plays a lot of", "correct": "jazz", "prediction": "fun", "prob": 0.11164156347513199, "known_id": 188}
+{"prompt": "Santo Stefano d'Aveto is located in the country of Italy. Santo Stefano d'Aveto is located in the country of", "correct": "Italy", "prediction": "Italy", "prob": 0.988088071346283, "known_id": 203}
+{"prompt": "Frederick Noronha, who has a citizenship of Brazil. Frederick Noronha, who has a citizenship of", "correct": "Brazil", "prediction": "Brazil", "prob": 0.9857629537582397, "known_id": 287}
+{"prompt": "North Side Gang was created in the early 1980s by a group of Chicago. North Side Gang was created in the early 1980s by a group of", "correct": "Chicago", "prediction": "Chicago", "prob": 0.9322249889373779, "known_id": 288}
+{"prompt": "IntelliPoint was created by a team of developers from the Microsoft. IntelliPoint was created by a team of developers from the", "correct": "Microsoft", "prediction": "Microsoft", "prob": 0.9887688159942627, "known_id": 297}
+{"prompt": "SNCF formed in 1894, and the first train to Paris. SNCF formed in 1894, and the first train to", "correct": "Paris", "prediction": "Paris", "prob": 0.9929032921791077, "known_id": 353}
+{"prompt": "David Hilbert's expertise is in the theory of algebraic geometry. David Hilbert's expertise is in the theory of algebraic", "correct": "geometry", "prediction": "geometry", "prob": 0.9853011965751648, "known_id": 355}
+{"prompt": "Giordano Bruno works in the field of philosophy. Giordano Bruno works in the field of", "correct": "philosophy", "prediction": "philosophy", "prob": 0.9369082450866699, "known_id": 360}
+{"prompt": "Law & Order was released on NBC. Law & Order was released on", "correct": "NBC", "prediction": "NBC", "prob": 0.4671757221221924, "known_id": 375}
+{"prompt": "Kurt Kreuger's profession is an actor. Kurt Kreuger's profession is an", "correct": "actor", "prediction": "actor", "prob": 0.9280714988708496, "known_id": 382}
+{"prompt": "Julian Huxley died in the city of London. Julian Huxley died in the city of", "correct": "London", "prediction": "London", "prob": 0.9478566646575928, "known_id": 413}
+{"prompt": "Dynix, a product of the former IBM. Dynix, a product of the former", "correct": "IBM", "prediction": "IBM", "prob": 0.93580162525177, "known_id": 414}
+{"prompt": "Gaetano Moroni passed away in Rome. Gaetano Moroni passed away in", "correct": "Rome", "prediction": "Rome", "prob": 0.9587838649749756, "known_id": 424}
+{"prompt": "Beijing, named after the capital. Beijing, named after the", "correct": "capital", "prediction": "capital", "prob": 0.7188453078269958, "known_id": 431}
+{"prompt": "The original language of Die Nibelungen was written in German. The original language of Die Nibelungen was written in", "correct": "German", "prediction": "German", "prob": 0.5336481332778931, "known_id": 458}
+{"prompt": "Microsoap premiered on the BBC. Microsoap premiered on the", "correct": "BBC", "prediction": "BBC", "prob": 0.9686559438705444, "known_id": 471}
+{"prompt": "Bandai Channel started in Japan. Bandai Channel started in", "correct": "Japan", "prediction": "Japan", "prob": 0.5609760284423828, "known_id": 541}
+{"prompt": "The Famous Teddy Z was originally aired on the CBS. The Famous Teddy Z was originally aired on the", "correct": "CBS", "prediction": "CBS", "prob": 0.9824265241622925, "known_id": 559}
+{"prompt": "In history of Limousin, the language spoken is French. In history of Limousin, the language spoken is", "correct": "French", "prediction": "French", "prob": 0.9344614148139954, "known_id": 607}
+{"prompt": "Association of Football Federations of Azerbaijan belongs to the organization of the FIFA. Association of Football Federations of Azerbaijan belongs to the organization of the", "correct": "FIFA", "prediction": "UEFA", "prob": 0.6954204440116882, "known_id": 627}
+{"prompt": "Saint-Marcellin was created in the country of France. Saint-Marcellin was created in the country of", "correct": "France", "prediction": "France", "prob": 0.9897406101226807, "known_id": 649}
+{"prompt": "Sir Charles Cayzer, 1st Baronet took up work in the London. Sir Charles Cayzer, 1st Baronet took up work in the", "correct": "London", "prediction": "London", "prob": 0.9566597938537598, "known_id": 706}
+{"prompt": "Alasdair Milne is employed by the BBC. Alasdair Milne is employed by the", "correct": "BBC", "prediction": "BBC", "prob": 0.8707535266876221, "known_id": 713}
+{"prompt": "Patuxent Wildlife Research Center, in Maryland. Patuxent Wildlife Research Center, in", "correct": "Maryland", "prediction": "Maryland", "prob": 0.9674131870269775, "known_id": 723}
+{"prompt": "Peter Josef von Lindpaintner is known for performing the first ever performance of the opera. Peter Josef von Lindpaintner is known for performing the first ever performance of the", "correct": "opera", "prediction": "opera", "prob": 0.9841795563697815, "known_id": 730}
+{"prompt": "Howlin' Wolf plays the guitar. Howlin' Wolf plays the", "correct": "guitar", "prediction": "guitar", "prob": 0.2916359007358551, "known_id": 746}
+{"prompt": "Sound Transit was formed in 1999 by a group of Seattle. Sound Transit was formed in 1999 by a group of", "correct": "Seattle", "prediction": "Seattle", "prob": 0.9433318972587585, "known_id": 773}
+{"prompt": "Now Kandeh District is located in the country of Iran. Now Kandeh District is located in the country of", "correct": "Iran", "prediction": "Iran", "prob": 0.9846082329750061, "known_id": 831}
+{"prompt": "Sviatoslav Knushevitsky passed away in Moscow. Sviatoslav Knushevitsky passed away in", "correct": "Moscow", "prediction": "Moscow", "prob": 0.9792048335075378, "known_id": 850}
+{"prompt": "The Thin Blue Line debuted on the BBC. The Thin Blue Line debuted on the", "correct": "BBC", "prediction": "BBC", "prob": 0.9774070978164673, "known_id": 914}
+{"prompt": "Krzysztof Meyer is known for performing the first ever live performance of the opera. Krzysztof Meyer is known for performing the first ever live performance of the", "correct": "opera", "prediction": "opera", "prob": 0.975392758846283, "known_id": 932}
+{"prompt": "Ludwig von Mises's domain of work is the economics. Ludwig von Mises's domain of work is the", "correct": "economics", "prediction": "economics", "prob": 0.8458498120307922, "known_id": 1016}
+{"prompt": "George Cadogan, 5th Earl Cadogan took up work in the London. George Cadogan, 5th Earl Cadogan took up work in the", "correct": "London", "prediction": "London", "prob": 0.9528548121452332, "known_id": 1021}
+{"prompt": "The New Andy Griffith Show premieres on CBS. The New Andy Griffith Show premieres on", "correct": "CBS", "prediction": "CBS", "prob": 0.9725712537765503, "known_id": 1032}
+{"prompt": "Galen's expertise is in the field of medicine. Galen's expertise is in the field of", "correct": "medicine", "prediction": "medicine", "prob": 0.9591161012649536, "known_id": 1077}
+{"prompt": "Books was a product of the same era as the first Apple. Books was a product of the same era as the first", "correct": "Apple", "prediction": "Apple", "prob": 0.9242439270019531, "known_id": 1147}
+{"prompt": "The Biskitts was originally aired on the CBS. The Biskitts was originally aired on the", "correct": "CBS", "prediction": "CBS", "prob": 0.9692589044570923, "known_id": 1162}
+{"prompt": "Patrick Henry College is located in Virginia. Patrick Henry College is located in", "correct": "Virginia", "prediction": "Pur", "prob": 0.257760614156723, "known_id": 1163}
