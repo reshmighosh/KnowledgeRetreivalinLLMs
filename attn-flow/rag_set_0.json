@@ -1,0 +1,622 @@
+[
+    {
+        "subject": "Windows Media Player",
+        "attr": "Microsoft",
+        "query": "Windows Media Player's owner,",
+        "documents": [
+            {
+                "content": "On January 12, 2006, Microsoft announced it had ceased development of Windows Media Player for Mac. Microsoft now distributes a third-party plugin called WMV Player (produced and maintained by Flip4Mac) which allows some forms of Windows Media to be played within Apple's QuickTime Player and other QuickTime-aware applications.",
+                "score": 19.09375,
+                "rank": 1,
+                "document_id": "Windows_Media_Player",
+                "passage_id": 845,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Windows Media Player (WMP, sometimes referred to as Windows Media Player Legacy to distinguish it from Windows Media Player 2022), is the first media player and media library application that Microsoft developed to play audio and video on personal computers. It has been a component of the Microsoft Windows operating system, including Windows 9x, Windows NT, Pocket PC, and Windows Mobile. Microsoft also released editions of Windows Media Player for classic Mac OS, Mac OS X, and Solaris, but has since discontinued them.\nIn addition to being a media player, the app can rip audio file from compact discs, burn Audio CDs or MP3 CDs, synchronize content with a digital audio player or mobile devices, and stream media over the local network. Originally, it could connect to a number of online music stores, allowing its users to purchase digital music.",
+                "score": 19.046875,
+                "rank": 2,
+                "document_id": "Windows_Media_Player",
+                "passage_id": 797,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Microsoft now distributes a third-party plugin called WMV Player (produced and maintained by Flip4Mac) which allows some forms of Windows Media to be played within Apple's QuickTime Player and other QuickTime-aware applications.\n\n\n== European Commission case ==\nIn March 2004, the European Commission in the European Union Microsoft antitrust case fined Microsoft \u20ac497 million and ordered the company to provide a version of Windows without Windows Media Player, claiming Microsoft \"broke European Union competition law by leveraging its near monopoly in the market for PC operating systems onto the markets for work group server operating systems and for media players.\u201d The company has made available a compliant version of its flagship operating system under the negotiated name \"Windows XP N,\u201d though the product has not been very successful. Windows Vista, Windows 7 and Windows 8 are also available in \"N\" editions. However, it is possible to either install Windows Media Player (XP/Vista) or the Media Restore Pack through Windows Update (Vista) to add the media player.",
+                "score": 18.4375,
+                "rank": 3,
+                "document_id": "Windows_Media_Player",
+                "passage_id": 846,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "=== Patent infringement ===\nOn July 24, 2023, a Texas jury found that Chromecast and other devices infringe patents owned by Touchstream Technologies related to streaming videos from one screen to another. The jury determined that Google violated the patents and must pay $338.7 million in damages.\n\n\n== See also ==\nAmazon Fire TV \u2013 Line of digital media players and microconsoles by Amazon\nRoku \u2013 Brand of streaming media players\nStick PC \u2013 single-board computer in the form of a small dongle, plugging into a display portPages displaying wikidata descriptions as a fallback\nComparison of digital media players\nSmart TV\n\n\n== References ==",
+                "score": 17.453125,
+                "rank": 4,
+                "document_id": "Chromecast",
+                "passage_id": 26622,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Each versions of Windows may bundle several other media playback apps, namely ActiveMovie Control, CD Player, DVD Player, Windows Media Center, and Microsoft Movies & TV.\nWindows Media Player 11 is the last out-of-band version of Media Player. It was made available for Windows XP and is included in Windows Vista and Windows Server 2008. Version 12 was released in 2009 along with Windows 7 and has not been made available for previous versions of Windows nor has it been updated ever since. Windows 8 bundled Windows Media Player 12 along two other media player apps, namely Xbox Video and Xbox Music. The latter was renamed Groove Music in Windows 10, and then finally Windows Media Player 2022 in Windows 11, which has since been backported to Windows 10.",
+                "score": 17.140625,
+                "rank": 5,
+                "document_id": "Windows_Media_Player",
+                "passage_id": 799,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Massachusetts Institute of Technology",
+        "attr": "Cambridge",
+        "query": "The location of Massachusetts Institute of Technology is in",
+        "documents": [
+            {
+                "content": "The Massachusetts Institute of Technology (MIT) is a private land-grant research university in Cambridge, Massachusetts. Established in 1861, MIT has played a significant role in the development of many areas of modern technology and science. \nFounded in response to the increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in applied science and engineering. MIT is one of three private land-grant universities in the United States, the others being Cornell University and Tuskegee University. The institute has an urban campus that extends more than a mile (1.6 km) alongside the Charles River, and encompasses a number of major off-campus facilities such as the MIT Lincoln Laboratory, the Bates Center, and the Haystack Observatory, as well as affiliated laboratories such as the Broad and Whitehead Institutes.",
+                "score": 24.703125,
+                "rank": 1,
+                "document_id": "Massachusetts_Institute_of_Technology",
+                "passage_id": 1077,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In 2013, Massachusetts scored highest of all the states in math and third-highest in reading on the National Assessment of Educational Progress. Massachusetts' public-school students place among the top tier in the world in academic performance.Massachusetts is home to 121 institutions of higher education. Harvard University and the Massachusetts Institute of Technology, both located in Cambridge, consistently rank among the world's best private universities and universities in general. In addition to Harvard and MIT, several other Massachusetts universities rank in the top 50 at the undergraduate level nationally in the widely cited rankings of U.S. News & World Report: Tufts University (#27), Boston College (#32), Brandeis University (#34), Boston University (#37) and Northeastern University (#40). Massachusetts is also home to three of the top five U.S.",
+                "score": 23.421875,
+                "rank": 2,
+                "document_id": "Massachusetts",
+                "passage_id": 32032,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "The institute also has a strong entrepreneurial culture and MIT alumni have founded or co-founded many notable companies. MIT is a member of the Association of American Universities.\n\n\n== History ==\n\n\n=== Foundation and vision ===\n\nIn 1859, a proposal was submitted to the Massachusetts General Court to use newly filled lands in Back Bay, Boston for a \"Conservatory of Art and Science\", but the proposal failed. A charter for the incorporation of the Massachusetts Institute of Technology, proposed by William Barton Rogers, was signed by John Albion Andrew, the governor of Massachusetts, on April 10, 1861.Rogers, a former student of the College of William and Mary and professor at the University of Virginia, wanted to establish an institution to address rapid scientific and technological advances.",
+                "score": 22.078125,
+                "rank": 3,
+                "document_id": "Massachusetts_Institute_of_Technology",
+                "passage_id": 1079,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "MIT alumnus and faculty member George Ellery Hale played a central role in the development of the California Institute of Technology (Caltech), and other faculty members have been key founders of Franklin W. Olin College of Engineering in nearby Needham, Massachusetts.\nAs of 2014 former provost Robert A. Brown served as president of Boston University; former provost Mark Wrighton is chancellor of Washington University in St. Louis; former associate provost Alice Gast is president of Lehigh University; and former professor Suh Nam-pyo is president of KAIST.",
+                "score": 21.375,
+                "rank": 4,
+                "document_id": "Massachusetts_Institute_of_Technology",
+                "passage_id": 1168,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In 2005, Caltech students pranked MIT's Campus Preview Weekend by distributing t-shirts that read \"MIT\" on the front, and \"...because not everyone can go to Caltech\" on the back. Additionally, the word Massachusetts in the \"Massachusetts Institute of Technology\" engraving on the exterior of the Lobby 7 dome was covered with a banner so that it read \"That Other Institute of Technology\". In 2006, MIT retaliated by posing as contractors and stealing the 1.7-ton, 130-year-old Fleming cannon, a Caltech landmark. The cannon was relocated to Cambridge, where it was displayed in front of the Green Building during the 2006 Campus Preview Weekend.",
+                "score": 20.796875,
+                "rank": 5,
+                "document_id": "Massachusetts_Institute_of_Technology",
+                "passage_id": 1156,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Magne Robo Gakeen",
+        "attr": "Japan",
+        "query": "Magne Robo Gakeen was created in the country of",
+        "documents": [
+            {
+                "content": "Magne Robo Gakeen (\u30de\u30b0\u30cd\u30ed\u30dc\u30fb\u30ac\u30fb\u30ad\u30fc\u30f3, Magunerobo Ga Kiin) is a Japanese anime television series produced by Toei Animation. It is the third installment to Takara's Magne-Robo Franchise. It aired from TV Asahi from  September 5, 1976 to June 26, 1977, with a total of 39 episodes. Outside Japan, several episodes were edited by Collins Walker and cobbled together into a movie-length feature produced by International Media Group and released by Century Video Corporation (The Adventures of Pinocchio), and in this format it is also known as Magnos the Robot or Renegade Force.",
+                "score": 21.625,
+                "rank": 1,
+                "document_id": "Magne_Robo_Gakeen",
+                "passage_id": 2381,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "== References ==\n\n\n== External links ==\nMagne Robo Gakeen's website in Toei Animation (in Japanese)\nPictures and summaries of Magne Robo Gakeen's chapters  (in Italian)\nSuper Robot\nMagne Robo Gakeen (anime) at Anime News Network's encyclopedia\nMagne Robo Gakeen at IMDb",
+                "score": 18.875,
+                "rank": 2,
+                "document_id": "Magne_Robo_Gakeen",
+                "passage_id": 2386,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "== Concept ==\nGakeen became one of the many super robot series to appear after the seminal works such as Mazinger and Getter Robo opened the floodgates to the genre. The robot was notable for its creative weaponry systems such as cutting fists, Gakeen fists, steel claws, bladed foot.  Other specialties include magnetic onslaught, magnetic draw, arm cutter, laser beams, atomic hurricane.  The show further extended the transformation into very long complex sequences that would become trendy for similar shows to follow.\n\n\n== Characters ==\nTakeru Hojo  Toshio Furukawa\nMai Kazuki  Kazuko Sugiyama",
+                "score": 15.4453125,
+                "rank": 3,
+                "document_id": "Magne_Robo_Gakeen",
+                "passage_id": 2383,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Civil conflict gradually broke out between Eric Gairy's government and some opposition parties, including the Marxist New Jewel Movement (NJM). Gairy and the GULP won the 1976 Grenadian general election, albeit with a reduced majority; however, the opposition deemed the results invalid due to fraud and the violent intimidation performed by the so-called 'Mongoose Gang', a private militia loyal to Gairy.On 13 March 1979, whilst Gairy was out of the country, the NJM launched a bloodless coup which removed Gairy, suspended the constitution, and established a People's Revolutionary Government (PRG), headed by Maurice Bishop, who declared himself prime minister. His Marxist\u2013Leninist government established close ties with Cuba, Nicaragua, and other communist bloc countries.",
+                "score": 13.4453125,
+                "rank": 4,
+                "document_id": "Grenada",
+                "passage_id": 12554,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "The Game & Watch brand (Japanese: \u30b2\u30fc\u30e0&\u30a6\u30aa\u30c3\u30c1 G\u0113mu & Uotchi; called Tricotronic in West Germany and Austria, abbreviated as G&W) is a series of handheld electronic games developed, manufactured, released, and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on an LCD screen. The models from 1981 onwards featured an alarm in addition.The series sold a combined 43.4 million units worldwide, including 12.87 million units in Japan and 30.53 million overseas.",
+                "score": 12.78125,
+                "rank": 5,
+                "document_id": "Game_&_Watch",
+                "passage_id": 33919,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Fluminense F.C.",
+        "attr": "Brazil",
+        "query": "Fluminense F.C. is located in the country of",
+        "documents": [
+            {
+                "content": "Fluminense Football Club (Brazilian Portuguese: [flumi\u02c8n\u1ebdsi fut\u0283i\u02c8b\u0254w \u02c8klubi]), known as Fluminense or more commonly as Flu, is a Brazilian sports club best known for its professional football team that competes in the Campeonato Brasileiro Serie A, the first tier of Brazilian football, and the Carioca Championship, the state league of Rio de Janeiro. The club is based in the neighbourhood of Laranjeiras since its foundation in 1902. Fluminense is the oldest football club in Rio de Janeiro.\nFluminense have been crowned national champions four times, most recently in the 2012 Campeonato Brasileiro S\u00e9rie A; the team have also won the 2007 Copa do Brasil and the 1952 Copa Rio.",
+                "score": 21.46875,
+                "rank": 1,
+                "document_id": "Fluminense_FC",
+                "passage_id": 36575,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "10 matches)\n\n\n== Support ==\nThe supporters of Fluminense Football Club are usually related to the upper classes of Rio de Janeiro. However, the popularity of the club reaches beyond the city limits. Recent polls have estimated the number of supporters to be between 1.3% and 3.7% of the Brazilian population, and between the 11th and 15th most popular club in the nation, falling behind Rio rivals Vasco, but slightly above Botafogo. Considering a population of 203 million people, that would account for numbers between 2.6 and 7.5 million. According to the club's official website, Flu has over 5 million supporters worldwide.The best attendance ever observed in a Fluminense match was registered on 15 December 1963 in a derby against Flamengo.",
+                "score": 19.5625,
+                "rank": 2,
+                "document_id": "Fluminense_FC",
+                "passage_id": 36608,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "The club is the birthplace of the Brazil national football team, which played its first game amidst the club\u2019s 12th anniversary celebrations. In Fluminense's ground, the Est\u00e1dio de Laranjeiras, the \u201cCanarinhos\u201d held their first match, scored their first goal and lifted their first trophy. To this day, the club has contributed the fifth-most players to the national team among all Brazilian clubs.\n\n\n== History ==\n\n\n=== Rio's football pioneering ===\nFluminense Football Club was founded on 21 July 1902, in the neighbourhood of Laranjeiras, in the city of Rio de Janeiro, by a group of young football enthusiasts led by Oscar Cox, an English citizen born in Brazil, who had come into contact with the sport whilst studying in Europe, and Cox was subsequently elected as the first president.",
+                "score": 19.5,
+                "rank": 3,
+                "document_id": "Fluminense_FC",
+                "passage_id": 36578,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In 1949, Fluminense became the only football club in the world to receive the Olympic Cup, awarded annually by the International Olympic Committee to an institution or association with a record of merit and integrity in actively developing the Olympic Movement. Its best international performances are finishing champions of the 2023 Copa Libertadores, and reaching the 2008 Copa Libertadores finals.Fluminense is the gentilic given to people born in the state of Rio de Janeiro, in Brazil.\nFluminense's traditional home kit consists of an iconic combination of three colors: burgundy, white, and green, disposed in vertical stripes, since its adoption in 1904. White shorts and white socks, an outfit which has been in use since 1920, complement the home kit for O Tricolor.",
+                "score": 19.296875,
+                "rank": 4,
+                "document_id": "Fluminense_FC",
+                "passage_id": 36576,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Three years later, in Fluminense's stadium, the Brazil national football team debuted, against touring English club Exeter City. It was also there that they won their debut title, in 1919.By 1922, Fluminense had 4,000 members, a stadium for 25,000 people, and facilities that impressed clubs in Europe.\n\n\n=== Construction of Maracan\u00e3 ===\nThe 1950 World Cup strengthened football in the country, and as a result, the country's biggest teams, which basically only competed in state tournaments, began to measure their strength in tournaments and matches against teams from other states.",
+                "score": 18.796875,
+                "rank": 5,
+                "document_id": "Fluminense_FC",
+                "passage_id": 36580,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Wayne Rooney",
+        "attr": "football",
+        "query": "Wayne Rooney professionally plays the sport of",
+        "documents": [
+            {
+                "content": "Wayne Mark Rooney (born 24 October 1985) is an English professional football manager and former player who was most recently the manager of Birmingham City. Widely considered one of the best players of his generation, Rooney is the record goalscorer for Manchester United, and was the record goalscorer for the England national team from 2015 to 2023. He has also made more appearances for England than any other outfield player. Rooney spent most of his playing career as a forward, but was also used in various midfield roles.\nRooney joined the Everton youth team at the age of nine and made his professional debut for the club in 2002 at the age of 16.",
+                "score": 23.484375,
+                "rank": 1,
+                "document_id": "Wayne_Rooney",
+                "passage_id": 4133,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Rooney joined the Everton youth team at the age of nine and made his professional debut for the club in 2002 at the age of 16. He spent two seasons at the Merseyside club before moving to Manchester United for \u00a325.6 million in the 2004 summer transfer window, where he won 16 trophies and became the only English player, alongside teammate Michael Carrick, to win the Premier League, FA Cup, UEFA Champions League, League Cup, UEFA Europa League, and FIFA Club World Cup.",
+                "score": 21.359375,
+                "rank": 2,
+                "document_id": "Wayne_Rooney",
+                "passage_id": 4134,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "And we are talking high\u2011level people there, players like Steven Gerrard, Frank Lampard and David Beckham.\"\n\n\n== Personal life ==\nIn addition to Everton, Rooney also supports Celtic. He is also a supporter of the Leeds Rhinos rugby league club. Rooney, originally a boxer, still pursues the sport recreationally for stress relief. A friend of boxer Ricky Hatton, in 2007 he carried one of Hatton's belts into the ring in his world light-welterweight title fight against Jos\u00e9 Luis Castillo in Las Vegas. The decision of Hatton (a Manchester City fan) to have a Manchester United striker carry the belt prompted threats of a boycott among the many Manchester City supporters who made up Hatton's fanbase. Hatton responded, \"Nobody hates United more than me. Just because I don't support his team doesn't mean I can't admire what he has done.\" Rooney has a number of tattoos, including one of a Celtic cross on his arm.",
+                "score": 21.296875,
+                "rank": 3,
+                "document_id": "Wayne_Rooney",
+                "passage_id": 4236,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "He was warned about his fitness on numerous occasions by his manager Alex Ferguson, who said of Rooney, \"He is very stocky, he is going to have to train well all the time.\" Former Manchester United fitness coach Mick Clegg, stated, \"Wayne didn't see the importance of the gym really. He'd say 'I'm here to play football.\" Rooney was criticised for his behaviour and aggression on the pitch at times, which led him to pick up unnecessary bookings.Formerly the all-time leading goalscorer for the England national team, Rooney is viewed as one of England's greatest players. In 2017, Gareth Southgate said: \"You've got very good players and then there are top players.",
+                "score": 21.0,
+                "rank": 4,
+                "document_id": "Wayne_Rooney",
+                "passage_id": 4234,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Rooney's cousin, Tommy Rooney, played for Macclesfield Town in 2004. Another cousin, Jake Rooney, is also a professional footballer for Derby County.\n\n\n=== Commercial interests ===\nRooney has endorsement deals with Nike (he is the face of their T90 Laser IV boots), Nokia, Ford, Asda, and Coca-Cola. He appeared on seven consecutive UK-version covers of Electronic Arts' FIFA video game series from FIFA 06 to FIFA 12. His \"knockout\" goal celebration \u2013 a tongue in cheek celebration by Rooney inspired by getting knocked down by a teammate in his home \u2013 appears in FIFA 18.",
+                "score": 20.96875,
+                "rank": 5,
+                "document_id": "Wayne_Rooney",
+                "passage_id": 4240,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Schreckhorn",
+        "attr": "Europe",
+        "query": "Schreckhorn belongs to the continent of",
+        "documents": [
+            {
+                "content": "The Schreckhorn (4,078 m) is a mountain in the Bernese Alps. It is the highest peak located entirely in the canton of Bern. The Schreckhorn is the northernmost Alpine four-thousander and the northernmost summit rising above 4,000 metres in Europe.\n\n\n== Geography ==\nThe Schreckhorn is located 10 km south-east of Grindelwald between the Upper and Lower Grindelwald Glacier. The region is made up of uninhabited glacial valleys, the great Aar Glaciers and the Fiescher Glacier. The summit of the Lauteraarhorn is located very close and reaches almost the same altitude. The highest peak of the Bernese Alps, the Finsteraarhorn, lies 6 km to the south.\nGeologically the Schreckhorn is part of the Aarmassif.",
+                "score": 21.9375,
+                "rank": 1,
+                "document_id": "Schreckhorn",
+                "passage_id": 7383,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "== Further reading ==\nSmythe, Frank S., 'A Storm on the Schreckhorn', in Peaks, Passes and Glaciers, ed. W. Unsworth, London: Allen Lane, 1981. An attempt on the south-west ridge in 1925.\n\n\n== External links ==\n\nThe Schreckhorn on SummitPost",
+                "score": 17.125,
+                "rank": 2,
+                "document_id": "Schreckhorn",
+                "passage_id": 7387,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "'The ambition of hoisting the first flag on the Schreckhorn, the one big Bernese summit which was untrodden, was far too obvious for us to resist', Desor later wrote, but they climbed a secondary summit of the Lauteraarhorn by mistake.\nThe first ascent by the south-west ridge (AD+) \u2013 the normal route by which the Schreckhorn is climbed \u2013 was made by John Wicks, Edward Branby and Claude Wilson on 26 July 1902. They decided to climb the very steep ridge without the help of local guides and succeeded in reaching the summit. The north-west ridge (the Andersongrat, D) was first climbed by John Stafford Anderson and George Percival Baker, with guides Ulrich Almer and Aloys Pollinger on 7 August 1883.",
+                "score": 16.90625,
+                "rank": 3,
+                "document_id": "Schreckhorn",
+                "passage_id": 7385,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "The north-west ridge (the Andersongrat, D) was first climbed by John Stafford Anderson and George Percival Baker, with guides Ulrich Almer and Aloys Pollinger on 7 August 1883.\nThe Strahlegg Hut, destroyed by an avalanche, has been replaced by the Schreckhorn Hut (2,520 m). The Schreckhorn may also be ascended from the Gleckstein Hut (2,317 m) and the Lauteraar Hut (2,392 m).\n\n\n== See also ==\nList of 4000 metre peaks of the Alps\n\n\n== References ==\n\nDumler, Helmut and Willi P. Burkhardt, The High Mountains of the Alps, London: Diadem, 1994\nEngel, Claire: Mountaineering in the Alps, London: George Allen and Unwin, 1971",
+                "score": 15.953125,
+                "rank": 4,
+                "document_id": "Schreckhorn",
+                "passage_id": 7386,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "== Climbing history ==\nThe first ascent was on 16 August 1861 by Leslie Stephen, Ulrich Kaufmann, Christian Michel and Peter Michel. Their route of ascent, via the upper Schreck Couloir to the Schrecksattel and then by the south-east ridge, was the normal route for the following fifty years, but is now seldom used.\nThe peak had been attempted several times before this, most notably by the Swiss naturalist Joseph Hugi in 1828 and the guided party of Pierre Jean \u00c9douard Desor (a Swiss geologist) in 1842.",
+                "score": 14.7109375,
+                "rank": 5,
+                "document_id": "Schreckhorn",
+                "passage_id": 7384,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Cairo American College",
+        "attr": "Egypt",
+        "query": "Cairo American College is located in the country of",
+        "documents": [
+            {
+                "content": "Cairo American College (or CAC) is a Pre-K\u201312 International American School located in Maadi, Cairo, Egypt. It caters mainly to dependents of the local American embassy and other international students. Cairo American College is a not for-profit school.\n\n\n== Curriculum ==\nCAC follows \"American Education Reaches Out\" (AERO) standards. International Baccalaureate and Advanced Placement programs are offered within the high school, giving students the option to opt-in or out, to suit individual educational needs. Starting in the eleventh grade students may elect to pursue an International Baccalaureate Diploma.Cairo American College is accredited by the Middle States Association of Colleges and Schools and Council of International Schools. Cairo American College holds membership with Association for the Advancement of International Education (AAIE) and Near East South Asia Council of Overseas Schools (NESA).",
+                "score": 25.125,
+                "rank": 1,
+                "document_id": "Cairo_American_College",
+                "passage_id": 7391,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "After grade 9, students are tracked into one of two strands of secondary education: general or technical schools. General secondary education prepares students for further education, and graduates of this track normally join higher education institutes based on the results of the Thanaweya Amma, the leaving exam.Technical secondary education has two strands, one lasting three years and a more advanced education lasting five. Graduates of these schools may have access to higher education based on their results on the final exam, but this is generally uncommon.Cairo University is Egypt's premier public university. The country is currently opening new research institutes for the aim of modernising research in the nation, the most recent example of which is Zewail City of Science and Technology. Egypt was ranked 86th in the Global Innovation Index in 2023, up from 92nd in 2019.",
+                "score": 17.90625,
+                "rank": 2,
+                "document_id": "Egypt",
+                "passage_id": 4391,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Egypt (Arabic: \u0645\u0635\u0631 Mi\u1e63r [mes\u02c1r], Egyptian Arabic pronunciation: [m\u0251s\u02e4r]), officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and the Sinai Peninsula in the southwest corner of Asia. It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west. The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. Cairo is the capital and largest city of Egypt, while Alexandria, the second-largest city, is an important industrial and tourist hub at the Mediterranean coast.",
+                "score": 17.78125,
+                "rank": 3,
+                "document_id": "Egypt",
+                "passage_id": 4269,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "The Zewail City of Science and Technology, established in 2000 and revived in 2011, is named in his honour.\n\n\n=== Honorary degrees ===\nZewail was bestowed honorary degrees by the following institutions: \nUniversity of Oxford, UK (1991); \nThe American University in Cairo, Egypt (1993);\nKatholieke Universiteit, Leuven, Belgium (1997);\nUniversity of Pennsylvania, US (1997);\nUniversity of Lausanne, Switzerland (1997);\nSwinburne University of Technology, Australia (1999);\nArab Academy for Science, Technology & Maritime Transport, Egypt (1999);\nD.Sc. Alexandria University, Egypt (1999); \nD.Sc.",
+                "score": 17.578125,
+                "rank": 4,
+                "document_id": "Ahmed_Zewail",
+                "passage_id": 34006,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Relations with China have also improved considerably. In 2014, Egypt and China established a bilateral \"comprehensive strategic partnership\".The permanent headquarters of the Arab League are located in Cairo and the body's secretary general has traditionally been Egyptian. This position is currently held by former foreign minister Ahmed Aboul Gheit. The Arab League briefly moved from Egypt to Tunis in 1978 to protest the Egypt\u2013Israel peace treaty, but it later returned to Cairo in 1989. Gulf monarchies, including the United Arab Emirates and Saudi Arabia, have pledged billions of dollars to help Egypt overcome its economic difficulties since the overthrow of Morsi.\nFollowing the 1973 war and the subsequent peace treaty, Egypt became the first Arab nation to establish diplomatic relations with Israel. Despite that, Israel is still widely considered as a hostile state by the majority of Egyptians.",
+                "score": 17.234375,
+                "rank": 5,
+                "document_id": "Egypt",
+                "passage_id": 4349,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Charlie Hebdo",
+        "attr": "French",
+        "query": "Charlie Hebdo is written in",
+        "documents": [
+            {
+                "content": "Charlie Hebdo (French pronunciation: [\u0283a\u0281li \u025bbdo]; meaning Charlie Weekly) is a French satirical weekly magazine, featuring cartoons, reports, polemics, and jokes. The publication has been described as anti-racist, sceptical, secular, libertarian and within the tradition of left-wing radicalism, publishing articles about the far-right (especially the French nationalist National Front party), religion (Catholicism, Islam and Judaism), politics and culture.\nThe magazine has been the target of three terrorist attacks: in 2011, 2015, and 2020. All of them were presumed to be in response to a number of cartoons that it published controversially depicting Muhammad. In the second of these attacks, 12 people were killed, including publishing director Charb and several other prominent cartoonists.",
+                "score": 20.96875,
+                "rank": 1,
+                "document_id": "Charlie_Hebdo",
+                "passage_id": 11034,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "== Staff ==\n\n\n== Accolades ==\nOn 5 May 2015, Charlie Hebdo was awarded the PEN/Toni and James C. Goodale Freedom of Expression Courage Award at the PEN American Center Literary Gala in New York City. Granting the prize to Charlie Hebdo sparked vast controversy among writers and 175 prominent authors boycotted the event due to \"cultural intolerance\" of the magazine.\n\n\n== See also ==\nLe Canard encha\u00een\u00e9, a French satirical weekly newspaper\nPrivate Eye, a British satirical fortnightly magazine\nMAD Magazine, an American satirical bi-monthly magazine\n\n\n== Notes ==\n\n\n== References ==\n\n\n== Further reading ==",
+                "score": 20.5,
+                "rank": 2,
+                "document_id": "Charlie_Hebdo",
+                "passage_id": 11086,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In the second of these attacks, 12 people were killed, including publishing director Charb and several other prominent cartoonists.\nCharlie Hebdo first appeared in 1970 after the monthly Hara-Kiri magazine was banned for mocking the death of former French president Charles de Gaulle. In 1981, publication ceased, but the magazine was resurrected in 1992. The magazine is published every Wednesday, with special editions issued on an unscheduled basis.\nG\u00e9rard Biard is the current editor-in-chief of Charlie Hebdo. The previous editors were Fran\u00e7ois Cavanna (1970\u20131981) and Philippe Val (1992\u20132009).\n\n\n== History ==\n\n\n=== Origins in Hara-Kiri ===\nIn 1960, Georges \"Professeur Choron\" Bernier and Fran\u00e7ois Cavanna launched a monthly magazine entitled Hara-Kiri.",
+                "score": 19.671875,
+                "rank": 3,
+                "document_id": "Charlie_Hebdo",
+                "passage_id": 11035,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "(Hebdo is short for hebdomadaire \u2013 \"weekly\")\n\n\n=== Launch of Charlie Hebdo ===\nIn November 1970, the former French president Charles de Gaulle died in his home village of Colombey-les-Deux-\u00c9glises, eight days after a disaster in a nightclub, the Club Cinq-Sept fire, which had caused the death of 146 people. The magazine released a cover spoofing the popular press's coverage of this disaster, headlined \"Tragic Ball at Colombey, one dead.\" As a result, the weekly was banned.\nIn order to sidestep the ban, the editorial team decided to change its title, and used Charlie Hebdo.",
+                "score": 18.921875,
+                "rank": 4,
+                "document_id": "Charlie_Hebdo",
+                "passage_id": 11038,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "As a result, the weekly was banned.\nIn order to sidestep the ban, the editorial team decided to change its title, and used Charlie Hebdo. The new name was derived from a monthly comics magazine called Charlie (later renamed Charlie Mensuel, meaning Charlie Monthly), which had been started by Bernier and Delfeil de Ton in 1969. The monthly Charlie took its name from the lead character of one of the comics it originally published, Peanuts's Charlie Brown. Using that title for the new weekly magazine was also an inside joke about Charles de Gaulle. The first issue did feature a Peanuts strip, as the editors were fans of the series.In December 1981, publication ceased.",
+                "score": 18.859375,
+                "rank": 5,
+                "document_id": "Charlie_Hebdo",
+                "passage_id": 11039,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Jeremy Paxman",
+        "attr": "BBC",
+        "query": "Jeremy Paxman is employed by the",
+        "documents": [
+            {
+                "content": "Jeremy Dickson Paxman (born 11 May 1950) is an English retired broadcaster, journalist, author, and television presenter. Born in Leeds, Paxman was educated at Malvern College and St Catharine's College, Cambridge, where he edited the undergraduate newspaper Varsity. At Cambridge, he was a member of a Labour Party club and described himself as a socialist, in later life describing himself as a one-nation conservative. He joined the BBC in 1972, initially at BBC Radio Brighton, relocating to London in 1977. In following years, he worked on Tonight and Panorama, becoming a newsreader for the BBC Six O'Clock News and later a presenter on Breakfast Time and University Challenge.\nIn 1989, he became a presenter for the BBC Two programme Newsnight, interviewing many political figures.",
+                "score": 23.21875,
+                "rank": 1,
+                "document_id": "Jeremy_Paxman",
+                "passage_id": 9351,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Paxman, Jeremy (2013). Great Britain's Great War. London: Viking. ISBN 978-0-670-91961-1.\nPaxman, Jeremy (2021). Black Gold: The History of How Coal Made Britain. London: William Collins. ISBN 978-0-008-12834-0.\n\n\n== References ==\n\n\n== External links ==\n\nOfficial website\nJeremy Paxman at IMDb\nBiography of Jeremy Paxman, member of the BBC's Press Office, at the official website of the BBC.\nBBC 'Newsnight' biography of Jeremy Paxman\nOfficial website of BBC's Newsnight programme\nPaxman questioned by fellow-journalists at London's Frontline Club, February 2008\nPaxman interviewed at length on the US Charlie Rose Show, June 2007",
+                "score": 20.46875,
+                "rank": 2,
+                "document_id": "Jeremy_Paxman",
+                "passage_id": 9396,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "Do we complain about it? No we don't. I think it's absurd. I don't understand wherein lies this angst.\" In reaction to Paxman's statements on Scotland, twenty Scottish MPs, including Jim Sheridan, Iain Luke and Brian Donohoe, signed a House of Commons motion criticising the statements as \"insulting, irresponsible, divisive and snobbish\".In 2008, Paxman's employment of domestic workers became the subject of public attention after the News of the World newspaper published an article  about two Romanian nationals who had been employed by Paxman.",
+                "score": 20.3125,
+                "rank": 3,
+                "document_id": "Jeremy_Paxman",
+                "passage_id": 9388,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In 1989, he became a presenter for the BBC Two programme Newsnight, interviewing many political figures. Paxman became known for his forthright interviewing style, particularly when interrogating politicians. These appearances were sometimes criticised as aggressive, intimidating and condescending, yet also applauded as tough and incisive. In 2014, Paxman left Newsnight after 25 years as its presenter. Since then, he has done occasional work for Channel 4 News. From its revival in 1994 up until he stepped down from the show in 2023, he presented University Challenge and its Christmas spin-off from 2011 to 2022. In 2022, he announced he was standing down, as he had been diagnosed with Parkinson's disease.",
+                "score": 20.203125,
+                "rank": 4,
+                "document_id": "Jeremy_Paxman",
+                "passage_id": 9352,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In July 1999, the BBC announced that Vine was joining Newsnight full-time as a co-presenter, having stood in for Jeremy Paxman over the two previous summers. Paxman was reported to have called Vine \"mini-me\", a reference to the diminutive associate of Dr. Evil in the Austin Powers film series.Vine was one of the original presenters of Broadcasting House on BBC Radio 4 and presented The Politics Show on BBC One from its launch in 2003 until Jon Sopel took over in 2005.\nIn May 2006, Vine was announced as Peter Snow's replacement for presenting the BBC election graphics, including the famous Swingometer.",
+                "score": 20.09375,
+                "rank": 5,
+                "document_id": "Jeremy_Vine",
+                "passage_id": 15726,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    },
+    {
+        "subject": "Georges Ernest Boulanger",
+        "attr": "Paris",
+        "query": "Georges Ernest Boulanger worked in the city of",
+        "documents": [
+            {
+                "content": "Georges Ernest Jean-Marie Boulanger (29 April 1837 \u2013 30 September 1891), nicknamed G\u00e9n\u00e9ral Revanche (\"General Revenge\"), was a French general and politician.  An enormously popular public figure during the second decade of the Third Republic, he won multiple elections. At the zenith of his popularity  in January 1889, he was feared to be powerful enough to establish himself as dictator. His base of support was the working-class districts of Paris and other cities, plus rural traditionalist Catholics and royalists.",
+                "score": 22.296875,
+                "rank": 1,
+                "document_id": "Georges_Ernest_Boulanger",
+                "passage_id": 10686,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "His base of support was the working-class districts of Paris and other cities, plus rural traditionalist Catholics and royalists. He introduced an obsessive and almost pathological anti-German sentiment, known as revanchism, which demanded the complete destruction of Imperial Germany as vengeance for the defeat and fall of the Second French Empire during the Franco-Prussian War (1870\u201371), into French culture and accordingly laid the foundations for the outbreak of the First World War.\nThe elections of September 1889 marked a decisive defeat for the Boulangists. Changes in the electoral laws prevented Boulanger from running in multiple constituencies and the aggressive opposition of the established government, combined with Boulanger's self-imposed exile, contributed to a rapid decline of the movement.",
+                "score": 19.671875,
+                "rank": 2,
+                "document_id": "Georges_Ernest_Boulanger",
+                "passage_id": 10687,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "In 1884, he was promoted to general of division and appointed to command the army occupying Tunisia, but was recalled owing to his differences of opinion with Pierre-Paul Cambon, the political resident. He returned to Paris, and began to take part in politics under the aegis of Georges Clemenceau and the Radicals. In January 1886, when Charles de Freycinet was brought into power, Clemenceau used his influence to secure Boulanger's appointment as War Minister (replacing Jean-Baptiste Campenon). Clemenceau assumed Boulanger was a republican, because he was known not to attend Mass. However Boulanger would soon prove himself a conservative and monarchist.\n\n\n== Minister of War ==\nIt was in the capacity of Minister of War that Boulanger gained most popularity.",
+                "score": 18.703125,
+                "rank": 3,
+                "document_id": "Georges_Ernest_Boulanger",
+                "passage_id": 10693,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "This, however, gave his enemies the time they needed to strike back. Ernest Constans, the Minister of the Interior, decided to investigate the matter, and attacked the Ligue des Patriotes using the law banning the activities of secret societies.\nShortly afterward the French government issued a warrant for Boulanger's arrest for conspiracy and treasonable activity. To the astonishment of his supporters, on 1 April he fled Paris before it could be executed, going first to Brussels and then to London. On 4 April the Parliament stripped him of his immunity from prosecution; the French Senate condemned him and his supporters, Rochefort, and Count Dillon for treason, sentencing all three to deportation and confinement.",
+                "score": 18.671875,
+                "rank": 4,
+                "document_id": "Georges_Ernest_Boulanger",
+                "passage_id": 10706,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            },
+            {
+                "content": "His brother Ernest enlisted in the Union Army and was killed in action during the American Civil War. After attending the Lyc\u00e9e of Nantes, Boulanger entered the Saint-Cyr Military Academy in 1855, graduating and entering the French Army in 1856.Boulanger first saw action in 1857 in Kabylia, during the French conquest of Algeria. He fought in the Austro-Sardinian War (he was wounded at Robecchetto con Induno, where he received the L\u00e9gion d'honneur) and in the Cochinchina campaign, after which he became a captain and instructor at Saint-Cyr.",
+                "score": 18.640625,
+                "rank": 5,
+                "document_id": "Georges_Ernest_Boulanger",
+                "passage_id": 10690,
+                "document_metadata": {
+                    "entity": "knowns-entity",
+                    "source": "wikipedia"
+                }
+            }
+        ]
+    }
+]
