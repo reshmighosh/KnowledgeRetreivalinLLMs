@@ -2,7 +2,7 @@
     {
         "subject": "Windows Media Player",
         "attr": "Microsoft",
-        "query": "Windows Media Player's owner,",
+        "query": "Who is Windows Media Player's owner ?",
         "documents": [
             {
                 "content": "On January 12, 2006, Microsoft announced it had ceased development of Windows Media Player for Mac. Microsoft now distributes a third-party plugin called WMV Player (produced and maintained by Flip4Mac) which allows some forms of Windows Media to be played within Apple's QuickTime Player and other QuickTime-aware applications.",
