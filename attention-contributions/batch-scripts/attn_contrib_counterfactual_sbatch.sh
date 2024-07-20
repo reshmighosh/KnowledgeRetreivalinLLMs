@@ -14,41 +14,23 @@ module load miniconda/22.11.1-1
 conda activate rome
 
 # Change directory to your desired location
-cd /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/
+cd /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/
 
-# Run the Python script
-
-python attn_contrib_batch.py \
---dataset-name "known_1000_synthetic_counterfactual" \
---model-name "/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/finetuning/llama-2-sft-known-1000" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-rag-synthetic-counterfact-position-0 \
---json-output-file full_data.json \
---input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/datasets/syntetic_counterfact_object_at_0.json
 
 python attn_contrib_batch.py \
 --dataset-name "known_1000_synthetic_counterfactual" \
---model-name "/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/finetuning/llama-2-sft-known-1000" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-rag-synthetic-counterfact-position-1 \
+--output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/outputs/llama-2-base/run-rag-synthetic-counterfact-corrected-position-0 \
 --json-output-file full_data.json \
---input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/datasets/syntetic_counterfact_object_at_1.json
+--input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/data/CF_1209_syntetic_counterfact_object_at_0.json
 
 python attn_contrib_batch.py \
 --dataset-name "known_1000_synthetic_counterfactual" \
---model-name "/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/finetuning/llama-2-sft-known-1000" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-rag-synthetic-counterfact-position-2 \
+--output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/outputs/llama-2-base/run-rag-synthetic-counterfact-corrected-position-1 \
 --json-output-file full_data.json \
---input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/datasets/syntetic_counterfact_object_at_2.json
+--input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/data/CF_1209_syntetic_counterfact_object_at_1.json
 
 python attn_contrib_batch.py \
 --dataset-name "known_1000_synthetic_counterfactual" \
---model-name "/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/finetuning/llama-2-sft-known-1000" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-rag-synthetic-counterfact-position-3 \
+--output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/outputs/llama-2-base/run-rag-synthetic-counterfact-corrected-position-2 \
 --json-output-file full_data.json \
---input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/datasets/syntetic_counterfact_object_at_3.json
-
-python attn_contrib_batch.py \
---dataset-name "known_1000_synthetic_counterfactual" \
---model-name "/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/finetuning/llama-2-sft-known-1000" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-rag-synthetic-counterfact-position-4 \
---json-output-file full_data.json \
---input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/datasets/syntetic_counterfact_object_at_4.json
+--input-file /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/data/CF_1209_syntetic_counterfact_object_at_2.json

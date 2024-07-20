@@ -14,11 +14,11 @@ module load miniconda/22.11.1-1
 conda activate rome
 
 # Change directory to your desired location
-cd /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/
+cd /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/
 
 # Run the Python script
 
-python attn_contrib_batch_vanilla_only.py \
---dataset-name "known_1000_no_rag" \
---output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions/outputs/llama-2-base/run-vanilla \
+python attn_contrib_batch.py \
+--dataset-name "known_1000" \
+--output-dir  /work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/repo-for-paper/attention-contributions-llama/outputs/llama-2-base/run-vanilla \
 --json-output-file full_data.json 

@@ -20,12 +20,9 @@ def config():
     parser.add_argument("--model_name", type=str, default="/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/llama-2-7b-hf")
     parser.add_argument("--max_new_tokens", type=int, default=25, help="Number of tokens to generate for each prompt.")
     parser.add_argument("--dataset-name", type=str, default="known_1000_synthetic")
-    # parser.add_argument("--load-in-8bit", action="store_true", help="Whether to load the model in 8-bit mode. We used this only for Llama-2 70B.")
-    # parser.add_argument("--subsample-count", type=int, default=5, help="Number of items to run for, mostly for testing mode.")
     parser.add_argument("--output-dir", type=str, default="./plots", help="Output directory to save the attention flow.")
     parser.add_argument("--json-output-file", type=str, help="Output directory to save generations")
     parser.add_argument("--input-file", type=str)
-    parser.add_argument("--model-name", type=str, default="/work/pi_dhruveshpate_umass_edu/rseetharaman_umass_edu/llama-2-7b-hf")
     parser.add_argument("-f")
 
     return parser.parse_args()
@@ -70,6 +67,8 @@ for i,item in enumerate(tqdm(items)):
     if 'counterfactual_object' in item.keys():
         # counterfactual RAG dataset
         constraints = [f" {item['counterfactual_object']}", f" {item['subject']}"]
+    elif 'attribute' in item.keys():
+        constraints = [f" {item['attribute']}", f" {item['subject']}"]
     else:
         # normal RAG dataset
         constraints = [f" {item['object']}", f" {item['subject']}"]
@@ -86,15 +85,19 @@ for i,item in enumerate(tqdm(items)):
     data['id'] = item['known_id']
 
     from viz_tools import plot_attention_flow
-    flow_matrix = data.all_token_contrib_norms[:, 1:data.num_prompt_tokens].T
+
+    start_idx = 1
+
+    if 'phi' in args.model_name:
+        start_idx = 0
+
+    flow_matrix = data.all_token_contrib_norms[:, start_idx:data.num_prompt_tokens].T
     token_labels = data.token_labels[1:data.num_prompt_tokens]
     fig = plot_attention_flow(flow_matrix, token_labels, topk_prefix=512)
     fig.savefig(f"{args.output_dir}/plots/{data['id']}_{item['constraint']}.png", bbox_inches="tight")
     item['full_generation'] = data['full_prompt']
-    # stats.append(data)
+    item['completion'] = data['completion']
     pickle.dump(data, open(f"{args.output_dir}/data/stats_{data['id']}.pkl", "wb"))
     full_data.append(item)
-
-
 
 json.dump(full_data, open(f"{args.output_dir}/outputs/{args.json_output_file}", 'w'))

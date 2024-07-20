@@ -72,10 +72,17 @@ def run_attention_monitor(prompt_info,
     proj_contribs = np.stack(proj_contributions)
     token_contribs = np.stack(token_contribs)
     
-    constraint_indices = find_within_text(data.prompt, data.constraints, model_wrapped.tokenizer)
 
-    if constraint_indices == [None]:
-        return dict()
+    # print(f"Completion is {completion}")
+
+    constraint_indices = find_within_text(data.prompt, data.constraints, model_wrapped.tokenizer)
+    
+    # print(f"Constraint indices are {constraint_indices}")
+    
+    constraint_indices = [c for c in constraint_indices if c is not None]
+
+    # if len(constraint_indices) < 2:
+    #     return dict()
 
     # Get the locations of the filler tokens and template tokens.  
     generation_start = num_prompt_tokens-1

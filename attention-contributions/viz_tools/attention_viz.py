@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 def plot_attention_flow(flow_matrix, token_labels, topk_prefix=15, savepdf=None, 
                         cbar_text=None,
                         title=None,
-                        figsize=(3,25)):
+                        figsize=(3,20)):
     flow_matrix = flow_matrix[:topk_prefix]
     token_labels = token_labels[:topk_prefix]
     fig, ax = plt.subplots(figsize=figsize, dpi=200)
